@@ -24,8 +24,8 @@ The notebook follows this logical flow:
 - Load the dataset using `pd.read_csv()` with tab separator (`sep='\t'`)
 - Preview the first few rows with `df.head()`
 
-### 2. Exploratory Data Analysis (EDA)
-A structured inspection of the raw dataset before any modifications:
+### 2. Data Inspection
+Ran an inspection on the raw dataset
 - `df.info()` — column names, data types, and non-null counts
 - `df.describe()` — summary statistics for all numeric columns
 - `df.isnull().sum()` — count of missing values per column
