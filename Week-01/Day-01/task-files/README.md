@@ -9,11 +9,6 @@
 
 ---
 
-## Overview
-
-This notebook performs data cleaning and preprocessing on a customer personality dataset loaded as a tab-separated file. The goal is to produce a clean, analysis-ready DataFrame by resolving data quality issues such as missing values, incorrect data types, outliers, and inconsistent categorical entries.
-
----
 
 ## Notebook Structure & Sequencing
 
