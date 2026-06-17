@@ -82,7 +82,7 @@ The dashboard was designed to provide a high-level overview of business performa
 ## Dashboard Preview
 
 
-![Sales Dashboard](Day-02/task-files/dashboard.png)
+![Sales Dashboard](task-files/dashboard.png)
 
 
 ---
