@@ -4,7 +4,7 @@
 
 **Internship:** DataX Labs — Day 2  
 **Author:** Lord Davon Mendoza  
-**Dataset:** `` (Customer Personality Analysis)  
+**Dataset:** `sales_data.csv` (Customer Personality Analysis)  
 **Tools:** Python, Pandas, Google Colab
 
 ## Tools Used
@@ -84,7 +84,7 @@ The dashboard was designed to provide a high-level overview of business performa
 > Add your dashboard screenshot here.
 
 ```text
-/dashboard-screenshot.png
+/dashboard.png
 ```
 
 ---
@@ -101,7 +101,7 @@ Among all product categories, **Clothing** generated the highest sales, making i
 
 ### 3. Sales Channels Were Evenly Distributed
 
-Retail and Online sales contributed almost equally to total revenue, indicating balanced customer engagement across both channels.
+Retail contribute more sales than Online in slim margin, making them almost equal to total revenue, indicating balanced customer engagement across both channels.
 
 ---
 
@@ -120,6 +120,3 @@ Through this project, I gained hands-on experience in:
 - Designing interactive dashboards in Power BI
 - Applying data storytelling techniques to communicate insights effectively
 
----
-
-*Day 2 of my Data Analytics Internship Journey*
