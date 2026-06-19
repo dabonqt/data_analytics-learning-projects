@@ -51,7 +51,7 @@ The dashboard consists of three report pages:
 
 ---
 
-## 📈 Overview Page
+## Overview Page
 
 The Overview page provides a high-level summary of business performance through KPI cards and trend visualizations.
 
@@ -105,7 +105,7 @@ The Regional Performance page highlights sales trends across different regions a
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 ### Overview
 
