@@ -1,5 +1,6 @@
 # SQL Data Analysis — Retail Sales Dataset
 **DataX Labs Internship · Day 4**
+
 **Author · Lord Davon Mendoza**
 
 ---
