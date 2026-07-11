@@ -2,11 +2,9 @@
 
 ## Task: Data Cleaning & Preprocessing
 
-**Internship:** DataX Labs — Day 1  
 **Author:** Lord Davon Mendoza  
 **Dataset:** `marketing_campaign.csv` (Customer Personality Analysis)  
-**Tools:** Python, Pandas, Google Colab
-
+**Tools:** Python (Google Colab), Libraries(pandas)
 ---
 
 
