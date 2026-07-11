@@ -4,7 +4,7 @@
 
 **Author:** Lord Davon Mendoza  
 **Dataset:** `marketing_campaign.csv` (Customer Personality Analysis)  
-**Tools:** Python (Google Colab), Libraries(pandas)
+*Tools*: Python (Google Colab), Libraries(pandas)
 ---
 
 
